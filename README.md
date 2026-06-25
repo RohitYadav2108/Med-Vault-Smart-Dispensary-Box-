@@ -564,6 +564,6 @@ Check:
 
 ---
 
-# 29. Conclusion
+# 28. Conclusion
 
 MedVault demonstrates a practical, affordable, and scalable medicine management system. By combining ESP32, RTC scheduling, servo-controlled compartments, reed-switch monitoring, OLED display, Firebase connectivity, and mobile application support, the system improves medicine adherence and enables better healthcare monitoring. The project provides a strong foundation for future AI-driven healthcare solutions.
